@@ -23,8 +23,8 @@ Este projeto é um sistema simples para gerenciar um torneio de futebol. Ele per
 Primeiro, clone o repositório para o seu computador:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/torneio-futebol.git
-cd torneio-futebol
+git clone https://github.com/KauaLibrelato/torneio-futebol-CleanCode.git
+cd torneio-futebol-CleanCode
 ```
 
 ### 2. Instalando as dependências
